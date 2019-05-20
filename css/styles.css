@@ -145,7 +145,7 @@ html, body,
 }
 
  .cbp-fbscroller section {
-	background-attachment: unset;
+	background-attachment: fixed;
 }
 
 .overlay {
