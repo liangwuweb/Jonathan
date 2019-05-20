@@ -540,6 +540,8 @@ h2 {
     	align-items: center;
     	justify-content: flex-end;
 	}
+	
+	 .cbp-fbscroller section {background-attachment: unset;}
 
 	#section-b #edusection1 {
 		background-image: url(../images/mobile/4.jpg);
